@@ -13,6 +13,7 @@ SAVEHIST=1000
 # Aliases
 alias ll='ls -la'
 alias gs='git status'
+alias bat='batcat'
 
 echo ".zshrc loaded!"
 
