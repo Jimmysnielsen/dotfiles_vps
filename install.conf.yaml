@@ -5,7 +5,9 @@
 - link:
     ~/.bashrc: bashrc
     ~/.zshrc: zshrc
-    ~/.tmux.conf: tmux.conf
+    ~/.emacs: emacs
+    ~/.emacs.d: emacs.d
+    #~/.tmux.conf: tmux.conf
 #- create:
 - shell:
   - [git submodule update --init --recursive, Installing submodules]

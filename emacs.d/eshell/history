@@ -1,0 +1,30 @@
+ls -la
+cd /home
+ll
+ls -la
+cd ubuntu/;ls
+ls -l
+cd ..
+alias ll='ls -laF'
+ll
+ls -laF
+cd 
+pwd
+cd /;ls 
+ls -l
+cd home
+mkdir root
+cd
+cd home/root
+cd /home/root
+ls -la
+mkdir docs project
+ls -la
+cd
+ls -la
+ln -s /home/root/docs ~/docs
+ln -s /home/root/project ~/project
+ls -la
+source .zshrc
+bat .zshrc
+batcat .zshrc
