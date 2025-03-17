@@ -1,3 +1,5 @@
+echo ".zshrc entered."
+
 # Enable command auto-completion
 autoload -Uz compinit
 compinit
