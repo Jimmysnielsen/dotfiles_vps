@@ -7,6 +7,7 @@
     ~/.zshrc: zshrc
     ~/.emacs: emacs
     ~/.emacs.d: emacs.d
+    ~/howm: /home/root/howm
     #~/.tmux.conf: tmux.conf
 #- create:
 - shell:
